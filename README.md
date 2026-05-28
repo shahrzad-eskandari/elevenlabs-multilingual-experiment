@@ -57,5 +57,3 @@ someone who has experienced the language barrier in healthcare firsthand.
 ---
 
 **Author:** Shahrzad Eskandari Majdar  
-**Background:** MSc Robotics Engineering • Biomedical Engineering BSc •  
-Junior Project Manager at an Edge AI startup • English teacher • Persian native speaker
